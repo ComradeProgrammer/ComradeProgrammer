@@ -1,16 +1,32 @@
-### Hi there 👋
+### Welcome!/欢迎!/Здравствуйте!
+#### Who am I?/我是谁?/Кто я?
+- CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
+北京航空航天大学计算机学院在读研究生<br>
+Kомпьютерный аспирантский студент в пекинском аэрокосмическом университете.
+- Research Interests (at school): New NetworkLayer Protocol/在校研究方向: 新型网络层协议
+- Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)/Casbin 成员(~~摸鱼~~)
+- Former backend intern at Bytedance Corporation/以前在字节做过后端实习生
+- Contact me at/联系方式/Контактная информация 2962928213@qq.com
 
-<!--
-**ComradeProgrammer/ComradeProgrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hobbies/爱好/увлечения
+- Preferred language and technics/语言与技术倾向<br>
+![](https://img.shields.io/badge/-Golang-blue) 
+![](https://img.shields.io/badge/-C++-brightgreen)
+![](https://img.shields.io/badge/-Kubernetes-blue)
+![](https://img.shields.io/badge/-Casbin-blue)
+- Entertainment/娱乐/развлечение<br>
+![](https://img.shields.io/badge/-CSGO-yellow)
+![](https://img.shields.io/badge/-World%20of%20Tanks-lightgray)
+![](https://img.shields.io/badge/-Europa%20Universalis%20IV-yellowgreen)
+![](https://img.shields.io/badge/-Heart%20of%20Iron%20IV-red)
+![](https://img.shields.io/badge/-Stellaris-lightgreen)
+- Daily Life/日常生活/повседневная жизнь<br>
+![](https://img.shields.io/badge/军乐-Military%20March-lightgreen)
+![](https://img.shields.io/badge/русский%20язык-Russian%20language-brightgreen)
+![](https://img.shields.io/badge/Русская%20история-Russian%20history-brightgreen)
+![](https://img.shields.io/badge/近代历史-modern%20history-brightgreen)
+![](https://img.shields.io/badge/政治-Politics-brightgreen)
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComradeProgrammer&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeProgrammer&theme=dark&count_private=true=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
