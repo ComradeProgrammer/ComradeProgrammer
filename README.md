@@ -15,11 +15,13 @@ Kомпьютерный аспирантский студент в пекинс�
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-Casbin-blue)
 - Entertainment/娱乐/развлечение<br>
-![](https://img.shields.io/badge/-CSGO-yellow)
-![](https://img.shields.io/badge/-World%20of%20Tanks-lightgray)
-![](https://img.shields.io/badge/-Europa%20Universalis%20IV-yellowgreen)
-![](https://img.shields.io/badge/-Heart%20of%20Iron%20IV-red)
-![](https://img.shields.io/badge/-Stellaris-lightgreen)
+![](https://img.shields.io/badge/-CSGO-yellow)(but obly silver II/白银2菜鸡)&ensp;&ensp;&ensp;&ensp;
+![](https://img.shields.io/badge/-World%20of%20Tanks-lightgray)(低血压治疗器)&ensp;&ensp;&ensp;&ensp;
+![](https://img.shields.io/badge/-Europa%20Universalis%20IV-yellowgreen)(复兴第三罗马！)<br>
+![](https://img.shields.io/badge/-Heart%20of%20Iron%20IV-red)(慈父~~大胡子~~的野望)&ensp;&ensp;&ensp;&ensp;
+![](https://img.shields.io/badge/-Stellaris-lightgreen)(第四天灾)&ensp;&ensp;&ensp;&ensp;
+![](https://img.shields.io/badge/-StarWar-blue)(May the force be with you)
+
 - Daily Life/日常生活/повседневная жизнь<br>
 ![](https://img.shields.io/badge/军乐-Military%20March-lightgreen)
 ![](https://img.shields.io/badge/русский%20язык-Russian%20language-brightgreen)
@@ -27,7 +29,7 @@ Kомпьютерный аспирантский студент в пекинс�
 ![](https://img.shields.io/badge/近代历史-modern%20history-brightgreen)
 ![](https://img.shields.io/badge/西方历史-western%20history-brightgreen)
 ![](https://img.shields.io/badge/政治-Politics-brightgreen)
-![](https://img.shields.io/badge/-StarWar-blue)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComradeProgrammer&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeProgrammer&theme=dark&count_private=true=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
