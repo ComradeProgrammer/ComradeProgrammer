@@ -27,6 +27,7 @@ Kомпьютерный аспирантский студент в пекинс�
 ![](https://img.shields.io/badge/近代历史-modern%20history-brightgreen)
 ![](https://img.shields.io/badge/西方历史-western%20history-brightgreen)
 ![](https://img.shields.io/badge/政治-Politics-brightgreen)
+![](https://img.shields.io/badge/-StarWar-blue)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComradeProgrammer&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeProgrammer&theme=dark&count_private=true=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
