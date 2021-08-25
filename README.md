@@ -15,7 +15,7 @@ Kомпьютерный аспирантский студент в пекинс�
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-Casbin-blue)
 - Entertainment/娱乐/развлечение<br>
-![](https://img.shields.io/badge/-CSGO-yellow)(but obly silver II/白银2菜鸡)&ensp;&ensp;&ensp;&ensp;
+![](https://img.shields.io/badge/-CSGO-yellow)(but only Silver II/白银2菜鸡)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-World%20of%20Tanks-lightgray)(低血压治疗器)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-Europa%20Universalis%20IV-yellowgreen)(复兴第三罗马！)<br>
 ![](https://img.shields.io/badge/-Heart%20of%20Iron%20IV-red)(慈父~~大胡子~~的野望)&ensp;&ensp;&ensp;&ensp;
