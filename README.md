@@ -3,9 +3,9 @@
 - CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
 北京航空航天大学计算机学院在读研究生<br>
 Kомпьютерный аспирантский студент в пекинском аэрокосмическом университете.
-- Research Interests (at school): New NetworkLayer Protocol/在校研究方向: 新型网络层协议
 - Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)/Casbin 成员(~~摸鱼~~)
 - Former backend intern at Bytedance Corporation/以前在字节做过后端实习生
+- Research Interests (at school): New NetworkLayer Protocol/在校研究方向: 新型网络层协议
 - Contact me at/联系方式/Контактная информация 2962928213@qq.com
 
 #### Hobbies/爱好/увлечения
@@ -25,8 +25,9 @@ Kомпьютерный аспирантский студент в пекинс�
 ![](https://img.shields.io/badge/русский%20язык-Russian%20language-brightgreen)
 ![](https://img.shields.io/badge/Русская%20история-Russian%20history-brightgreen)
 ![](https://img.shields.io/badge/近代历史-modern%20history-brightgreen)
+![](https://img.shields.io/badge/西方历史-western%20history-brightgreen)
 ![](https://img.shields.io/badge/政治-Politics-brightgreen)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComradeProgrammer&theme=dark&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeProgrammer&theme=dark&count_private=true=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComradeProgrammer&theme=dark&count_private=true=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
