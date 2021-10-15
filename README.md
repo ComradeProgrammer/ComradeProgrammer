@@ -14,6 +14,8 @@ Kомпьютерный аспирантский студент в пекинс�
 ![](https://img.shields.io/badge/-C++-brightgreen)
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-Casbin-blue)
+![](https://img.shields.io/badge/-RTC-blue)
+![](https://img.shields.io/badge/-WEB-blue)
 - Entertainment/娱乐/развлечение<br>
 ![](https://img.shields.io/badge/-CSGO-yellow)(but only Silver II/白银2菜鸡)&ensp;&ensp;&ensp;&ensp;
 ![](https://img.shields.io/badge/-World%20of%20Tanks-lightgray)(低血压治疗器)&ensp;&ensp;&ensp;&ensp;
