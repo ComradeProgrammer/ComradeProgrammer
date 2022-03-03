@@ -1,6 +1,8 @@
 ### Welcome!/欢迎!/Здравствуйте!
 #### 写在前面/something at the beginning
-**I love Russian language culture and history, but I stand with Ukraine. Glory to Ukraine!Слава Україні!**
+**I love Russian language culture and history, but I stand with Ukraine in this war. Glory to Ukraine! Слава Україні!**<br>
+我热爱俄语，俄罗斯历史和文化，但在这场战争中我站在乌克兰一边。光荣属于乌克兰!
+
 #### Who am I?/我是谁?/Кто я?
 - CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
 北京航空航天大学计算机学院在读研究生<br>
