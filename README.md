@@ -1,13 +1,14 @@
 ### Welcome!/欢迎!/Здравствуйте!
 #### 写在前面/something at the beginning
-**I love Russian language,culture and history, but I stand with Ukraine in this war. Glory to Ukraine!<br>
+I love Russian language,culture and history, but I stand with Ukraine in this war. Glory to Ukraine!<br>
 Я люблю російську мову, культуру та історію, але я з Україною в цій війні. Слава Україні!<br>
 Я люблю русский язык, культуру и историю, но в этой войне я на стороне Украины. Слава Украине!<br>
-我热爱俄语，俄罗斯历史和文化，但在这场战争中我站在乌克兰一边。荣耀属于乌克兰!**<br>
-Захватчики будут раздавлены, свобода и независимость принадлежат украинскому народу!<br>
-Загарбники будуть розгромлені, свобода і незалежність належать народу України<br>
-Invaders will be crushed, freedom and independence belong to Ukraine people<br>
-侵略者必将被击败，独立与自由必将属于乌克兰人民<br>
+我热爱俄语，俄罗斯历史和文化，但在这场战争中我站在乌克兰一边。荣耀属于乌克兰!
+
+**Invaders will be crushed,** freedom and independence belong to Ukraine people<br>
+**Загарбники будуть розгромлені,** свобода і незалежність належать народу України!<br>
+**Захватчики будут раздавлены,** свобода и независимость принадлежат украинскому народу!<br>
+**侵略者必将被击败**，独立与自由必将属于乌克兰人民!
 
 #### Who am I?/我是谁?/Кто я?
 - CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
