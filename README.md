@@ -6,7 +6,7 @@ I love Russian language,culture and history, but I **STAND WITH UKRAINE** in thi
 Я люблю русский язык, культуру и историю, но в этой войне я **поддерживаю украину**.<br>
 我热爱俄语，俄罗斯历史和文化，但在这场战争中**我支持乌克兰**。
 
-**Invaders will be crushed,** Let the flag of independence and of freedom lead Ukraine people to the path toward victory and peace!<br>
+**Invaders will be crushed,** Let the flag of independence and freedom lead Ukraine people to the path toward victory and peace!<br>
 **Загарбники будуть розгромлені,** нехай прапор незалежності і свободи веде народ України на шлях до перемоги і миру!<br>
 **Захватчики будут раздавлены,** пусть флаг независимости и свободы ведет народ Украины на путь победы и мира!<br>
 **侵略者必将被击败**，独立与自由的神圣旗帜必将指引乌克兰人民走向胜利与和平!
