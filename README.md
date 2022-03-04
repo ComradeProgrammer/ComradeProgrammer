@@ -9,7 +9,8 @@ I love Russian language,culture and history, but I **STAND WITH UKRAINE** in thi
 **Invaders will be crushed,** Let the flag of independence and of freedom lead Ukraine people to the path toward victory and peace!<br>
 **Загарбники будуть розгромлені,** нехай прапор незалежності і свободи веде народ України на шлях до перемоги і миру!<br>
 **Захватчики будут раздавлены,** пусть флаг независимости и свободы ведет народ Украины на путь победы и мира!<br>
-**侵略者必将被击败**，独立与自由的神圣旗帜必将指引乌克兰人民走向胜利与和平!<br>
+**侵略者必将被击败**，独立与自由的神圣旗帜必将指引乌克兰人民走向胜利与和平!
+
 Glory to Ukraine! Слава Україні! Слава Украине!荣耀属于乌克兰!
 
 #### Who am I?/我是谁?/Кто я?
