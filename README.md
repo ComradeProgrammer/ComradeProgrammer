@@ -1,4 +1,3 @@
-# About me
 ## Welcome!/欢迎!/Здравствуйте!
 
 ## 临时写在前面/something at the beginning temporarily
