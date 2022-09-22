@@ -21,6 +21,7 @@ Kомпьютерный аспирантский студент в пекинс�
 Casbin 成员(~~摸鱼~~)
 - Former backend intern at Bytedance Corporation<br>
 以前在字节做过后端实习生
+- GSOC(Google Summer of Code)2022 Student @[Casbin](https://github.com/casbin)
 - Research Interests (at school): New NetworkLayer Protocol
 <br>在校研究方向: 新型网络层协议
 - Contact me at/联系方式/Контактная информация 2962928213@qq.com
