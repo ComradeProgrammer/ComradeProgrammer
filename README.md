@@ -17,13 +17,14 @@ Glory be to Ukraine! Слава Україні! Слава Украине!荣光
 - CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
 北京航空航天大学计算机学院在读研究生<br>
 Kомпьютерный аспирантский студент в пекинском аэрокосмическом университете.
-- Intern at Nvidia<br/> Студенты - стажеры NVIDIA <br/> 英伟达实习生
+- Intern at Nvidia (Beijing) <br/> 英伟达(北京)实习生<br/>  Стажер Nvidia (Пекин) 
 - Contributor of Kubernetes/minikube
-- Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)<br>
-Casbin 成员(~~摸鱼~~)
+- GSOC(Google Summer of Code)2022 Student @[Casbin](https://github.com/casbin)
 - Former backend intern at Bytedance Corporation<br>
 以前在字节做过后端实习生
-- GSOC(Google Summer of Code)2022 Student @[Casbin](https://github.com/casbin)
+
+- Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)<br>
+Casbin 成员(~~摸鱼~~)
 - Research Interests (at school): New NetworkLayer Protocol
 <br>在校研究方向: 新型网络层协议
 - Contact me at/联系方式/Контактная информация 2962928213@qq.com
