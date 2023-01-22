@@ -17,6 +17,8 @@ Glory be to Ukraine! Слава Україні! Слава Украине!荣光
 - CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
 北京航空航天大学计算机学院在读研究生<br>
 Kомпьютерный аспирантский студент в пекинском аэрокосмическом университете.
+- Intern at Nvidia<br/> Студенты - стажеры NVIDIA <br/> 英伟达实习生
+- Contributor of Kubernetes/minikube
 - Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)<br>
 Casbin 成员(~~摸鱼~~)
 - Former backend intern at Bytedance Corporation<br>
