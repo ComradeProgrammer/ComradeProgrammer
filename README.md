@@ -19,7 +19,7 @@ Glory be to Ukraine! Слава Україні! Слава Украине!荣光
 Kомпьютерный аспирантский студент в пекинском аэрокосмическом университете.
 
 - B.Eng in Computer Science and Technology received at Honors College of Beijing University of Aeronautics and Astronautics.<br>
-本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学位
+本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br>
 Бакалавр наук в области компьютерных наук и техники, Почетный колледж, Пекинский университет аэронавтики и астронавтики.
 
 - Intern at Nvidia (Beijing) <br/> 英伟达(北京)实习生<br/>  Стажер Nvidia (Пекин) 
