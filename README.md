@@ -39,7 +39,7 @@ Casbin 成员(~~摸鱼~~)
 ![](https://img.shields.io/badge/-Golang-blue) 
 ![](https://img.shields.io/badge/-C++-brightgreen)
 ![](https://img.shields.io/badge/-Kubernetes-blue)
-![](https://img.shields.io/badge/-Casbin-blue)
+![](https://img.shields.io/badge/-ACL-blue)
 ![](https://img.shields.io/badge/-CloudNative-blue)
 ![](https://img.shields.io/badge/-WEB-blue)
 - Entertainment/娱乐/развлечение<br>
