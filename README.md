@@ -30,7 +30,7 @@ Kомпьютерный аспирантский студент в пекинс�
 - Contributor of Kubernetes/minikube
 - GSOC(Google Summer of Code)2022 Student 
 
-- Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)<br>
+- Contributor and Member of Casbin (~~but lazy~~)<br>
 Casbin 成员(~~摸鱼~~)
 - Contact me at/联系方式/Контактная информация 2962928213@qq.com
 
