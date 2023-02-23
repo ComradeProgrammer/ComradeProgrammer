@@ -28,7 +28,7 @@ Kомпьютерный аспирантский студент в пекинс�
 Проходил стажировку в ByteDance.
 
 - Contributor of Kubernetes/minikube
-- GSOC(Google Summer of Code)2022 Student @[Casbin](https://github.com/casbin)
+- GSOC(Google Summer of Code)2022 Student 
 
 - Contributor and Member of [Casbin](https://github.com/casbin) (~~but lazy~~)<br>
 Casbin 成员(~~摸鱼~~)
