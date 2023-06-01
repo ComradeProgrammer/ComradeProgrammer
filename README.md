@@ -14,10 +14,9 @@ I love Russian language,culture and history, but I **STAND WITH UKRAINE** in thi
 Glory be to Ukraine! Слава Україні! Слава Украине!荣光归于乌克兰!
 
 ## Who am I?/我是谁?/Кто я?
-- CS postgraduate student in School of Computer Science and Engineering, Beijing University of Aeronautics and Astronautics(BUAA).<br>
-北京航空航天大学计算机学院在读研究生<br>
-Kомпьютерный аспирантский студент в пекинском аэрокосмическом университете.
-
+- Incoming CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VUA) （23fall）.<br>
+即将入读阿姆斯特丹大学与阿姆斯特丹自由大学联合培养的计算机硕士项目（23fall）<br>
+Поступающий магистр компьютерных наук в Амстердамский университет (UvA) и Свободный университет Амстердама (VUA)<br>
 - B.Eng in Computer Science and Technology received at Honors College of Beijing University of Aeronautics and Astronautics.<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br>
 Бакалавр наук в области компьютерных наук и техники, Почетный колледж, Пекинский университет аэронавтики и астронавтики.
