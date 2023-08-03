@@ -1,41 +1,41 @@
-## Welcome!/欢迎!/Здравствуйте!
+## Welcome!/欢迎!/Welkom!/Здравствуйте!
 
 ## 临时写在前面/something at the beginning temporarily
 I love Russian language,culture and history, but I **STAND WITH UKRAINE** in this war. <br>
-Я люблю російську мову, культуру та історію, але в цій війні **я підтримую Україну**. <br>
+Ik hou van de Russische taal, cultuur en geschiedenis, maar ik STA MET OEKRAÏNE in deze oorlog. <br>
 Я люблю русский язык, культуру и историю, но в этой войне я **поддерживаю украину**.<br>
 我热爱俄语，俄罗斯历史和文化，但在这场战争中**我支持乌克兰**。
 
 **Invaders will be crushed,** let the flag of independence and freedom lead Ukraine people to the path toward victory and peace!<br>
-**Загарбники будуть розгромлені,** нехай прапор незалежності і свободи веде народ України на шлях до перемоги і миру!<br>
-**Захватчики будут раздавлены,** пусть флаг независимости и свободы ведет народ Украины на путь победы и мира!<br>
+**Indringers zullen worden verpletterd,** laat de vlag van onafhankelijkheid en vrijheid het Oekraïense volk leiden naar de weg naar overwinning en vrede!<br>
+**Захватчики будут раздавлены,** пусть флаг независимости и свободы ведет народ Украины на путь победа и мира!<br>
 **侵略者必将被击败**，独立与自由的神圣旗帜必将指引乌克兰人民走向胜利与和平!
 
-Glory be to Ukraine! Слава Україні! Слава Украине!荣光归于乌克兰!
+Glory be to Ukraine! Слава Україні! Eer aan Oekraïne!荣光归于乌克兰!
 
-## Who am I?/我是谁?/Кто я?
+## Who am I?/我是谁?/Wie ben ik?/Кто я?
 
 - Incoming CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VUA) （23fall）.<br>
 即将入读阿姆斯特丹大学与阿姆斯特丹自由大学联合培养的计算机硕士项目（23fall）<br>
-Поступающий магистр компьютерных наук в Амстердамский университет (UvA) и Свободный университет Амстердама (VUA)<br>
 
 - B.Eng in Computer Science and Technology received at Honors College of Beijing University of Aeronautics and Astronautics.<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br> 
-Бакалавр наук в области компьютерных наук и техники, Почетный колледж, Пекинский университет аэронавтики и астронавтики.
 
-- SDE Intern at Nvidia (Beijing) <br/> 英伟达(北京)实习生(SDE)<br/>  SDE Стажер Nvidia (Пекин) 
+- SDE Intern at Nvidia (Beijing) <br/> 英伟达(北京)实习生(SDE)<br/>
+  
 - Former backend intern at Bytedance Corporation<br>
 以前在字节做过后端实习生<br>
-Проходил стажировку в ByteDance.
+
 
 - Contributor of Kubernetes/minikube
+  
 - GSOC(Google Summer of Code)2022 Student 
 
-- Contributor and Member of Casbin (~~but lazy~~)<br>
-Casbin 成员(~~摸鱼~~)
-- Contact me at/联系方式/Контактная информация 2962928213@qq.com
+- Contributor and Member of Casbin <br>
+Casbin 成员
+- Contact me at/联系方式/contactgegevens/Контактная информация 2962928213@qq.com
 
-## Hobbies/爱好/увлечения
+## Hobbies/爱好/hobby's/увлечения
 
 - Preferred language and technics/语言与技术倾向<br>
 ![](https://img.shields.io/badge/-Golang-blue) 
