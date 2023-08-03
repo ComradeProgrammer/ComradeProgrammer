@@ -27,16 +27,18 @@ CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amst
 Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br> 
 
-- Former SDE Intern at Nvidia (Beijing)<br> Ik was SDE-stagiair bij Nvidia <br/> 前英伟达(北京)实习生(SDE)<br/>
-  
-- Former backend intern at Bytedance Corporation<br>
+- **Former SDE Intern at Nvidia (Beijing)<br> Ik was SDE-stagiair bij Nvidia <br/> 前英伟达(北京)实习生(SDE)<br/>**
+
+- **Former backend intern at Bytedance Corporation<br>
 Ik was SDE-stagiair bij Bytedance<br/> 
-以前在字节做过后端实习生<br>
+以前在字节做过后端实习生<br>**
 
 
-- Contributor of Kubernetes/minikube
+- **Contributor of Kubernetes/minikube and its subproject kubernetes-sigs/minikube-gui <br/> 
+  时常给Kubernetes/minikube和它下属的kubernetes-sigs/minikube-gui提交代码**
   
-- GSOC(Google Summer of Code)2022 Student 
+- **GSOC(Google Summer of Code)2022 Student<br/> 
+  参加过谷歌编程之夏2022**
 
 - Contributor and Member of Casbin <br>
 Casbin 成员
