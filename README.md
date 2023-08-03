@@ -20,14 +20,17 @@ Glory be to Ukraine! Слава Україні! Eer aan Oekraïne!荣光归于�
 ## Who am I?/我是谁?/Wie ben ik?/Кто я?
 
 - Incoming CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VUA) （23fall）.<br>
+CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amsterdam <br>
 即将入读阿姆斯特丹大学与阿姆斯特丹自由大学联合培养的计算机硕士项目（23fall）<br>
 
 - B.Eng in Computer Science and Technology received at Honors College of Beijing University of Aeronautics and Astronautics.<br>
+Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br> 
 
-- SDE Intern at Nvidia (Beijing) <br/> 英伟达(北京)实习生(SDE)<br/>
+- Former SDE Intern at Nvidia (Beijing)<br> Ik was SDE-stagiair bij Nvidia <br/> 前英伟达(北京)实习生(SDE)<br/>
   
 - Former backend intern at Bytedance Corporation<br>
+Ik was SDE-stagiair bij Bytedance<br/> 
 以前在字节做过后端实习生<br>
 
 
