@@ -10,9 +10,7 @@ Ik hou van de Russische taal, cultuur en geschiedenis, maar ik STA MET OEKRAÏNE
 **Indringers zullen worden verpletterd,** laat de vlag van onafhankelijkheid en vrijheid het Oekraïense volk leiden naar de weg naar overwinning en vrede!<br>
 **Захватчики будут раздавлены,** пусть флаг независимости и свободы ведет народ Украины на путь победа и мира!<br>
 **侵略者必将被击败**，独立与自由的神圣旗帜必将指引乌克兰人民走向胜利与和平!
-<!--
-I know the troubles I will encounter by publicly saying words like this in China, and actually I have encountered them, when I said them on Chinese in Internet platforms ——my Zhihu account with 260k likes received 99+ messages per day before Battle of Kharkiv, saying that I am a traitor of motherland. But fine, it cannot alter my determination.
-**我很清楚在中文互联网上说这种话给我带来的麻烦——我在知乎上说了，然后26万赞的号哈尔科夫反击战之前时候天天99+私信骂我1450狗罕见——没事你们骂，骂我也支持乌克兰** -->
+
 
 Glory be to Ukraine! Слава Україні! Eer aan Oekraïne!荣光归于乌克兰!
 
