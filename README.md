@@ -21,9 +21,9 @@ Glory be to Ukraine! Слава Україні! Eer aan Oekraïne!荣光归于�
 
 ## Who am I?/我是谁?/Wie ben ik?/Кто я?
 
-- Incoming CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU) （23fall）.<br>
+- CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU) （23fall）.<br>
 CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amsterdam <br>
-即将入读阿姆斯特丹大学与阿姆斯特丹自由大学联合培养的计算机硕士项目（23fall）<br>
+在阿姆斯特丹大学与阿姆斯特丹自由大学联合项目就读的计算机硕士（23fall）<br>
 
 - B.Eng in Computer Science and Technology received at Honors College of Beijing University of Aeronautics and Astronautics.<br>
 Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
