@@ -6,18 +6,12 @@ Ik hou van de Russische taal, cultuur en geschiedenis, maar ik **STA MET OEKRAÏ
 Я люблю русский язык, культуру и историю, но в этой войне я **поддерживаю украину**.<br>
 我热爱俄语，俄罗斯历史和文化，但在这场战争中**我支持乌克兰**。
 
-
 **Invaders will be crushed,** let the flag of independence and freedom lead Ukrainian people to the path toward victory and peace!<br>
 **Indringers zullen worden verpletterd,** laat de vlag van onafhankelijkheid en vrijheid het Oekraïense volk leiden naar de weg naar overwinning en vrede!<br>
 **Захватчики будут раздавлены,** пусть флаг независимости и свободы ведет народ Украины на путь победа и мира!<br>
 **侵略者必将被击败**，独立与自由的神圣旗帜必将指引乌克兰人民走向胜利与和平!
 
-
 Glory be to Ukraine! Слава Україні! Eer aan Oekraïne!荣光归于乌克兰!
-
-（*I have shown my attitude publicly since 24 Feb 2022, the start of SMO. And, as the owner of a Zhihu account with beyond 10K follows and 26k likes, **I am fully aware of the troubles this attitude (which is unorthodox in China mainland and does not align with Chinese official propaganda)has caused to me in Chinese Internet platforms**. But I shall never change my attitude.*）<br>
-（*从2022年2月24日特别军事行动开始那一刻起我就表明了我对战争的态度，并且作为知乎上有1万关注26万赞的人，我也清楚在国内网络平台公开发表我的非主旋律态度给我带来的一系列麻烦.但我不会改变我的想法*）<br>
-
 
 ## Who am I?/我是谁?/Wie ben ik?/Кто я?
 
