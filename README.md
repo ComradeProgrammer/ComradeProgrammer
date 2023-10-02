@@ -1,5 +1,5 @@
-## Welcome!/欢迎!/Welkom!/Здравствуйте!
-<!--
+## Welcome!/欢迎!/Welkom!
+<!-- 
 ## 临时写在前面/something at the beginning temporarily
 I love Russian language,culture and history, but I **STAND WITH UKRAINE** in this war. <br>
 Ik hou van de Russische taal, cultuur en geschiedenis, maar ik **STA MET OEKRAÏNE** in deze oorlog. <br>
@@ -13,7 +13,7 @@ Ik hou van de Russische taal, cultuur en geschiedenis, maar ik **STA MET OEKRAÏ
 
 Glory be to Ukraine! Слава Україні! Eer aan Oekraïne!荣光归于乌克兰!
 -->
-## Who am I?/我是谁?/Wie ben ik?/Кто я?
+## Who am I?/我是谁?/Wie ben ik?
 
 - CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU) （23fall）.<br>
 CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amsterdam <br>
@@ -39,16 +39,18 @@ Ik was SDE-stagiair bij Bytedance<br/>
 - Contributor and Member of Casbin <br>
 Casbin 成员
 
-## Hobbies/爱好/hobby's/увлечения
+## Hobbies/爱好/hobby's
 
 - Preferred language and technics/语言与技术倾向<br>
-![](https://img.shields.io/badge/-Golang-blue) 
+![](https://img.shields.io/badge/-Golang-blue)
+![](https://img.shields.io/badge/-Java-blue) 
 ![](https://img.shields.io/badge/-C++-brightgreen)
+![](https://img.shields.io/badge/-python-blue) 
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-ACL-blue)
 ![](https://img.shields.io/badge/-CloudNative-blue)
 ![](https://img.shields.io/badge/-WEB-blue)
-- Entertainment/娱乐/развлечение<br>
+- Entertainment/娱乐<br>
 ![](https://img.shields.io/badge/-CSGO-yellow)
 ![](https://img.shields.io/badge/-World%20of%20Tanks-lightgray)
 ![](https://img.shields.io/badge/-War%20Thunder-lightgray)
@@ -57,7 +59,7 @@ Casbin 成员
 ![](https://img.shields.io/badge/-Stellaris-lightgreen)
 ![](https://img.shields.io/badge/-StarWar-blue)
 
-- Daily Life/日常生活/повседневная жизнь<br>
+- Daily Life/日常生活<br>
 ![](https://img.shields.io/badge/军乐-Military%20March-lightgreen)
 ![](https://img.shields.io/badge/русский%20язык-Russian%20language-brightgreen)
 ![](https://img.shields.io/badge/Русская%20история-Russian%20history-brightgreen)
