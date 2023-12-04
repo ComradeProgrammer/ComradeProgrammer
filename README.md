@@ -23,8 +23,8 @@ CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amst
 Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br>
 
-- Incoming 2024 summer SDE intern at Databricks Amsterdam office (but TWV <Tewerkstellingsvergunning> working permit pending, but I think I can get the Tewerkstellingsvergunning, theoretically, if everything goes fine).<br/>
-2024 Databricks-阿姆斯特丹暑期实习生，但是实习所需的TWV<Tewerkstellingsvergunning>工签还在办理中，如果一切顺利可以拿到
+- Incoming 2024 summer SDE intern at **Databricks(Amsterdam office)** (but TWV <Tewerkstellingsvergunning> Dutch working permit pending, but I think I can get the Tewerkstellingsvergunning, theoretically, if everything goes fine).<br/>
+2024 Databricks（阿姆斯特丹）暑期实习生，但是实习所需的TWV<Tewerkstellingsvergunning>工签还在办理中，如果一切顺利可以拿到
 
 - **Former SDE Intern at Nvidia (Beijing)<br> Ik was SDE-stagiair bij Nvidia <br/> 前英伟达(北京)实习生(SDE)<br/>**
 
