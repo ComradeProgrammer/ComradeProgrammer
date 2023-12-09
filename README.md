@@ -25,7 +25,8 @@ Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and A
 
 - **Incoming 2024 summer SDE intern at Databricks(Amsterdam office) ,but Tewerkstellingsvergunning (Dutch part-time working permit for non-EuropeanUnion students) is pending.<br/>
 2024 Databricks（阿姆斯特丹）暑期实习生 ，但是实习所需的适用于非欧盟学生的TWV (Tewerkstellingsvergunning) 临时工签还在办理中，如果一切顺利可以拿到**
-
+- **Incoming 2024 autumn SDE intern at Amazon Deutschland (Berlin office) ,but Zentrale Auslands- und Fachvermittlung Zustimmung (German Labour Authorities Approval) is pending.<br/>
+2024 Amazon DE(柏林）秋季实习生 ，但是实习所需的德国联邦劳工局ZAV批准信仍在办理中，如果一切顺利可以拿到**
 - **Former SDE Intern at Nvidia (Beijing)<br> Ik was SDE-stagiair bij Nvidia <br/> 前英伟达(北京)实习生(SDE)<br/>**
 
 - **Former backend intern at Bytedance Corporation<br>
