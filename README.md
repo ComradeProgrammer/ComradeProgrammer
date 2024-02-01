@@ -23,8 +23,8 @@ CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amst
 Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br>
 
-- **Incoming 2024 summer SDE intern at Databricks(Amsterdam office) ,but Tewerkstellingsvergunning (Dutch part-time working permit for non-EuropeanUnion students) is pending.<br/>
-2024 Databricks（阿姆斯特丹）暑期实习生 ，但是实习所需的适用于非欧盟学生的TWV (Tewerkstellingsvergunning) 临时工签还在办理中**
+- **Incoming 2024 summer SDE intern at Databricks - Amsterdam office （De Tewerkstellingsvergunning is ook klaar）.<br/>
+2024 Databricks（阿姆斯特丹）暑期实习生**
 - **Incoming 2024 autumn SDE intern at Amazon Deutschland (Berlin office) ,but Einvernehmen der
 Bundesagentur für Arbei (German Labour Authorities Pre-Approval) and visa are pending.<br/>
 2024 Amazon DE(柏林）秋季实习生 ，但是实习所需的德国联邦劳工局ZAV批准信和签证仍在办理中**
