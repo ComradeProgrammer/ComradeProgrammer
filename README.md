@@ -48,6 +48,12 @@ Casbin 成员
 
 ## Hobbies/爱好/hobby's
 
+![EofpPBkUwAA47J0](https://github.com/ComradeProgrammer/ComradeProgrammer/assets/46831212/0b745740-25c3-4389-ac4c-c3f4c2bd038f)
+야 이 반란군 놈의 새끼야! 니들 거기 꼼짝 말고 있어! 내 지금 전차를 몰고 가서 니놈들의 머리통을 다 날려버리겠어！<br>
+你们这些叛匪，给我老实呆着，看我派坦克来把你们一个个都送上天！<br>
+
+
+
 - Preferred language and technics/语言与技术倾向<br>
 ![](https://img.shields.io/badge/-Golang-blue)
 ![](https://img.shields.io/badge/-Java-blue) 
