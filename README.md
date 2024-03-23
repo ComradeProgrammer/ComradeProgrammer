@@ -1,4 +1,6 @@
 ## Welcome!/欢迎!/Welkom!
+Homines possunt historiam condonare, sed deus non vult. 人类或许会宽恕历史,但上帝绝不轻饶。<br>
+세월은 흘러가도 산천은 안다. 岁月虽会流逝,但山川永远铭记。 Even if time passes, the mountains and rivers will never forget.
 <!-- 
 ## 临时写在前面/something at the beginning temporarily
 I love Russian language,culture and history, but I **STAND WITH UKRAINE** in this war. <br>
