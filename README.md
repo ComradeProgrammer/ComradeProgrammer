@@ -25,7 +25,8 @@ CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amst
 Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
 本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br>
 
-- **Incoming 2024 summer SDE intern at Databricks - Amsterdam office （De Tewerkstellingsvergunning is ook klaar）.<br/>
+- **Incoming 2024 summer SDE intern at Databricks - Amsterdam office<br/>
+Ik ben zomer SDE-stagiair  bij Databricks (Amsterdam Kantoor) in 2024.（De Tewerkstellingsvergunning is ook klaar）<br/>
 2024 Databricks（阿姆斯特丹）暑期实习生**
 
 - **Former SDE Intern at Nvidia (Beijing)<br> Ik was SDE-stagiair bij Nvidia <br/> 前英伟达(北京)实习生(SDE)<br/>**
