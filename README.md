@@ -1,6 +1,6 @@
 ## Welcome!/欢迎!/Welkom!
 Homines possunt historiam condonare, sed deus non vult. 纵使人类遗忘，历史遭到篡改，但上苍绝不轻饶。<br>
-세월은 흘러가도 산천은 안다. 岁月虽会流逝,但山川永远铭记。 Even if time passes, the mountains and rivers will never forget.
+
 
 ## Who am I?/我是谁?/Wie ben ik?
 
@@ -17,9 +17,7 @@ Ik ben zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
 
 - **Former SDE Intern at Nvidia (Beijing) and Bytedance (Beijing)<br> Ik was SDE-stagiair bij Nvidia en Bytedance<br/> 前英伟达(北京)实习生(SDE);前字节实习生<br/>**
 
-- B.Eng in Computer Science and Technology received at Honors College of Beijing University of Aeronautics and Astronautics.<br>
-Ik behaalde mijn CS B.Eng-diploma aan de Beijing University of Aeronautics and Astronautics<br>
-本科毕业于北京航空航天大学高等理工学院，计算机科学与技术工程学士学位<br>
+
   
 - **GSOC(Google Summer of Code)2022 Student<br/> 
   参加过谷歌编程之夏2022**
