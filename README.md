@@ -8,8 +8,8 @@ Homines possunt historiam condonare, sed deus non vult. 纵使人类遗忘，历
 CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amsterdam <br>
 在阿姆斯特丹大学与阿姆斯特丹自由大学联合项目就读的计算机硕士<br>
 
-- **2024 summer SDE intern at Databricks - Amsterdam office<br/>
-Ik ben zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
+- **(was) 2024 summer SDE intern at Databricks - Amsterdam office<br/>
+Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024 summer.<br/>
 2024 Databricks（阿姆斯特丹）暑期实习生**
 
 - **Member of Kubernetes. Newbie contributor of Kubernetes/minikube  <br/> 
