@@ -9,10 +9,11 @@ CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amst
 在阿姆斯特丹大学与阿姆斯特丹自由大学联合项目就读的计算机硕士<br>
 
 - **(was) 2024 summer SDE intern at Databricks - Amsterdam office<br/>
-Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024 summer.<br/>
+Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
 2024 Databricks（阿姆斯特丹）暑期实习生**
 
-- **Member of Kubernetes. Newbie contributor of Kubernetes/minikube  <br/> 
+- **Member of Kubernetes. Newbie contributor of Kubernetes/minikube  <br/>
+  Ik ben een nieuwe bijdrager aan de Kubernetes-gemeenschap en heb daar hun lidmaatschap  <br/> 
   Kubernetes社区成员(萌新)，时常给Kubernetes/minikube提交代码的萌新**
 
 - **Former SDE Intern at Nvidia (Beijing) and Bytedance (Beijing)<br> Ik was SDE-stagiair bij Nvidia en Bytedance<br/> 前英伟达(北京)实习生(SDE);前字节实习生<br/>**
