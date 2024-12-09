@@ -8,6 +8,10 @@ Homines possunt historiam condonare, sed deus non vult. 纵使人类遗忘，历
 CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amsterdam <br>
 在阿姆斯特丹大学与阿姆斯特丹自由大学联合项目就读的计算机硕士<br>
 
+- Graduation thesis SDE intern at Jetbrains s.r.o, Amsterdam HQ <br/>
+Afstudeeropdracht software-ingenieur stagiair bij Jetbrains N.V. Amsterdam Hoofdkantoor <br/>
+Jetbrains (阿姆斯特丹) 毕设实习生
+
 - **(was) 2024 summer SDE intern at Databricks - Amsterdam office<br/>
 Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
 2024 Databricks（阿姆斯特丹）暑期实习生**
