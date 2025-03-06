@@ -33,10 +33,13 @@ Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
 ![EofpPBkUwAA47J0](https://github.com/ComradeProgrammer/ComradeProgrammer/assets/46831212/0b745740-25c3-4389-ac4c-c3f4c2bd038f) <br>
 
 - Preferred language and technics/语言与技术倾向<br>
+![](https://img.shields.io/badge/-Bazel-green)
+![](https://img.shields.io/badge/-IDE%20Plugin-green)
 ![](https://img.shields.io/badge/-Golang-blue)
 ![](https://img.shields.io/badge/-Java-blue) 
 ![](https://img.shields.io/badge/-C++-brightgreen)
-![](https://img.shields.io/badge/-python-blue) 
+![](https://img.shields.io/badge/-python-blue)
+![](https://img.shields.io/badge/-kotlin-blue) 
 ![](https://img.shields.io/badge/-Kubernetes-blue)
 ![](https://img.shields.io/badge/-CloudNative-blue)
 ![](https://img.shields.io/badge/-WEB-blue)
