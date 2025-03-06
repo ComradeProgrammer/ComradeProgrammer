@@ -22,9 +22,9 @@ Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
 
 - **Former SDE Intern at Nvidia (Beijing) and Bytedance (Beijing)<br> Ik was SDE-stagiair bij Nvidia en Bytedance<br/> 前英伟达(北京)实习生(SDE);前字节实习生<br/>**
 
-- War Thunder player, Level 100 but still haven't got top tier vehicles (just got Mig23MLD and T-64BV) because I never spend money to buy premium player.<br>
-战雷玩家，百级大将但是佛系开线，连顶级房都没开出来（空历刚打出来Mig23MLD，陆历刚开到乌友神车T-64BV），因为我一分钱都没给给战雷花过，一台金币载具都没有。<br>
-Ik ben een WarThunder player en heb niveau 100 bereikt, maar heb nog steeds geen topvoertuigen, want ik heb nooit een premium kampfwagen of vliegtuig gekocht.
+- War Thunder player, only play Soviet Union tech tree, have reached level 100 but still haven't got top tier vehicles (just got Mig23MLD and T-64BV) because I never spend money to buy premium player.<br>
+战雷玩家，苏系玩家，百级大将但是佛系开线，连顶级房都没开出来（空历刚打出来Mig23MLD，陆历刚开到乌友神车T-64BV），因为我一分钱都没给给战雷花过，一台金币载具都没有。<br>
+Ik ben een WarThunder player en heb niveau 100 bereikt, maar heb nog steeds geen topvoertuigen, want ik heb nooit een premium kampfwagen of vliegtuig gekocht. Ik heb allen voertuigen van voormalige Sovjet-Unie
   
 - **GSOC(Google Summer of Code)2022 Student<br/> 
   参加过谷歌编程之夏2022**
