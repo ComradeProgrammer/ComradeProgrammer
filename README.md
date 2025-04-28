@@ -1,5 +1,6 @@
 ## Welcome!/欢迎!/Welkom!
-Homines possunt historiam condonare, sed deus non vult. 纵使人类遗忘，历史遭到篡改，但上苍绝不轻饶。<br>
+Wo alle Straßen enden hört unser Weg nicht auf.        道路终结的地方，我们旅途仍未央；<br>
+Wohin wir uns auch wenden，die Zeit nimmt ihren Lauf.  无论辗转至何方，时光都无声流淌<br>
 
 
 ## Who am I?/我是谁?/Wie ben ik?
