@@ -5,32 +5,19 @@ Wohin wir uns auch wenden，die Zeit nimmt ihren Lauf.  无论辗转至何方，
 
 ## Who am I?/我是谁?/Wie ben ik?
 
-- CS master student at Universiteit van Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU).<br>
-CS Masterstudent aan de Universiteit van Amsterdam en de Vrije Universiteit Amsterdam <br>
-在阿姆斯特丹大学与阿姆斯特丹自由大学联合项目就读的计算机硕士<br>
-
-- **Graduation thesis SDE intern at Jetbrains s.r.o, Amsterdam HQ <br/>
-Afstudeeropdracht software-ingenieur stagiair bij Jetbrains N.V. Amsterdam Hoofdkantoor <br/>
-Jetbrains (阿姆斯特丹) 毕设实习生**
-
-- **(was) 2024 summer SDE intern at Databricks - Amsterdam office<br/>
-Ik was zomer SDE-stagiair  bij Databricks B.V. (Amsterdam Kantoor) in 2024.<br/>
-2024 Databricks（阿姆斯特丹）暑期实习生**
 
 - **Member of Kubernetes. Newbie contributor of Kubernetes/minikube  <br/>
   Ik ben een nieuwe bijdrager aan de Kubernetes-gemeenschap en heb daar hun lidmaatschap  <br/> 
   Kubernetes社区成员(萌新)，时常给Kubernetes/minikube提交代码的萌新**
 
-- **Former SDE Intern at Nvidia (Beijing) and Bytedance (Beijing)<br> Ik was SDE-stagiair bij Nvidia en Bytedance<br/> 前英伟达(北京)实习生(SDE);前字节实习生<br/>**
+- Graduated from University of Amsterdam and Vrije University Amsterdam. Former intern at JetBrains, Databricks, Nvidia, Bytedance. Participant of GSOC 2022<br>
+  Afgestudeerd aan de Universiteit van Amsterdam en Vrije Universiteit Amsterdam. Voormalig stagiair bij JetBrains, Databricks, Nvidia, Bytedance. Deelnemer van GSOC 2022<br>
+  毕业于阿姆斯特丹大学与阿姆斯特丹自由大学，在Jetbrains，Databricks，英伟达和字节跳动做过实习生，参加过GSOC 2022.
 
 - War Thunder player, only play Soviet Union tech tree, have reached level 100 but still haven't got any top tier vehicles (just got Mig29B and T-64BV) because I never spend money to buy premium vehicle.<br>
 战雷玩家，苏<del>(输)</del>联玩家，百级大将但是佛系开线，连顶级房都没开出来（空历刚打出来Mig29(9-13)，陆历刚开到乌友神车T-64BV），因为我一分钱都没给给战雷氪金过，一台金币载具都没有。<br>
 Ik ben een WarThunder player en heb niveau 100 bereikt, maar heb nog steeds geen topvoertuigen, want ik heb nooit een premium kampfwagen of vliegtuig gekocht. Ik heb allen voertuigen van voormalige Sovjet-Unie
   
-- **GSOC(Google Summer of Code)2022 Student<br/> 
-  参加过谷歌编程之夏2022**
-
-
 ## Hobbies/爱好/hobby's
 
 ![EofpPBkUwAA47J0](https://github.com/ComradeProgrammer/ComradeProgrammer/assets/46831212/0b745740-25c3-4389-ac4c-c3f4c2bd038f) <br>
