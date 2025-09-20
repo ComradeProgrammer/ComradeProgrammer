@@ -6,7 +6,12 @@ Wohin wir uns auch wenden，die Zeit nimmt ihren Lauf.  无论辗转至何方，
 
 - **Member of Kubernetes. Newbie contributor of Kubernetes/minikube  <br/>
   Ik ben een nieuwe bijdrager aan de Kubernetes-gemeenschap en heb daar hun lidmaatschap  <br/> 
-  Kubernetes社区成员(萌新)，时常给Kubernetes/minikube提交代码的萌新**
+  Kubernetes社区成员(萌新)，时常给Kubernetes/minikube提交代码的萌新*
+
+- Software engineer at Databricks Amsterdam.<br>
+  Software ingenieur bij Databricks Amsterdam.<br>
+  在数据砖头当码农
+  
 
 - Graduated from University of Amsterdam and Vrije University Amsterdam. <br>
   Afgestudeerd aan de Universiteit van Amsterdam en Vrije Universiteit Amsterdam.<br>
