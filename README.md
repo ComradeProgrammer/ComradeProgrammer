@@ -1,6 +1,7 @@
 ## Welcome!/欢迎!/Welkom!
-Wo alle Straßen enden hört unser Weg nicht auf.        道路终结的地方，我们旅途仍未央；<br>
-Wohin wir uns auch wenden，die Zeit nimmt ihren Lauf.  无论辗转至何方，时光都无声流淌<br>
+So ziehen wir verloren durch das graue Niemandsland. Vielleicht kehrt von uns keiner mehr zurück ins Heimatland. <br/>
+我们都迷失在渺无人烟的地方。我们之中或许再也无人能重返故乡。<br/>
+
 
 ## Who am I?/我是谁?/Wie ben ik?
 
